@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: jn301-9ye-nodesample
+  host: jn301-9ye-nodesample
+  disk_quota: 1024M
